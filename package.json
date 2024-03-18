@@ -1,0 +1,28 @@
+{
+  "name": "insightful-utils-use",
+  "version": "1.0.0",
+  "description": "Insightful Utils is a Node.js module providing a collection of insightful utility functions for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/draconboones/insightful-utils-use"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "zenith-walk": "1.0.0",
+    "saystellar-essentials": "1.0.0",
+    "evgeny32-data": "1.1.4",
+    "peer-array-se": "1.0.0",
+    "celestial-rush-utils": "1.0.0",
+    "soulful-hope": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draconboones/insightful-utils-use/issues"
+  },
+  "homepage": "https://github.com/draconboones/insightful-utils-use#readme"
+}
